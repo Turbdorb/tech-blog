@@ -1,17 +1,14 @@
 [
   {
-    "name": "Music Near Me",
-    "description": "A mobile app that will send you notifications whenever a concert is playing in your area.",
-    "needed_funding": 5000
+    "name": "Tunes Around Town",
+    "description": "An innovative mobile app designed to keep you in the loop about local music events. Get real-time notifications whenever there's a concert happening in your area. Stay connected to the music scene like never before!"
   },
   {
-    "name": "The Ultimate Tech Quiz",
-    "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
-    "needed_funding": 10000
+    "name": "BallQuest",
+    "description": "BallQuest is a comprehensive web app that offers users a daily dose of technical challenges. Sharpen your skills in programming, cybersecurity, database architecture, and more. Track your progress and become a tech guru!"
   },
   {
-    "name": "Roll 'Em Up",
-    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
-    "needed_funding": 800
+    "name": "Local Harmonies",
+    "description": "Discover the pulse of your city's music scene with Local Harmonies. Our mobile app sends you instant notifications when live music performances are happening nearby. Don't miss a beat of the local music culture!"
   }
 ]
